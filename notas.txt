@@ -1,0 +1,10 @@
+mkdir -> Crear Carpetas
+cd -> Change Directory
+pwd -> Te dice tu dirección actual
+touch -> crear archivo
+cat -> leer contenido archivo
+history -> ver historial de comandos
+!num -> repetir comando del history
+rm -> eliminar archivo
+--help -> Despues de un comando
+ctrl L -> Limpiar consola
