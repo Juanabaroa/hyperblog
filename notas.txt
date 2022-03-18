@@ -8,3 +8,13 @@ history -> ver historial de comandos
 rm -> eliminar archivo
 --help -> Despues de un comando
 ctrl L -> Limpiar consola
+code -> Abrir Visual Studio
+git add -> agregar archivos en proceso de guardar
+git status -> Muestra que archivos aun no han sido guardados
+git rm -- cached historia.txt -> remover el add
+git commit -m "Version1 del archivo" -> Mandar el cambio
+git log historia.txt -> mostrar historia cambios
+git diff codigo codigo -> Compara ambas versiones
+git show -> muestra cambios versiones
+git reset codigo --hard -> Resetea cambios
+git push -> enviar del repositorio local al repositorio remoto
