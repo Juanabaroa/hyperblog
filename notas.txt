@@ -20,3 +20,5 @@ git reset codigo --hard -> Resetea cambios
 git push -> enviar del repositorio local al repositorio remoto
 git brach nombredelabranch -> crear una branch
 git checkout nombredelabranch -> Moverme a la rama
+git merge nombredelabranch -> Para mergear
+ 
